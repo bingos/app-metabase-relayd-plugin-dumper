@@ -80,8 +80,6 @@ This plugin uses an C<[Dumper]> section within the L<metabase-relayd> configurat
 The only mandatory required parameter is C<enable>. Set this to a C<true> value to enable
 the plugin.
 
-=back
-
 =head1 SEE ALSO
 
 L<metabase-relayd>
